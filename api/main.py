@@ -18,4 +18,4 @@ def read_item(item_id: int, m: str = None):
 #async def insertar_libro(libro: Libro):
     #return {'Massege': f'Libro: {libro.titulo} isertado correctamente'}
 
-    #inst thunder client
+    #inst thunder client para revisar paginas raiz propia o creda por nosotros desde el visual 
