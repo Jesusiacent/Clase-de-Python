@@ -16,6 +16,6 @@ def read_item(id: int):
 
 @app.post('/libros/')
 async def insertar_libro(libro: Libro):
-    return {'Massege': f'Libro: {libro.titulo} isertado correctamente'}
+    return {'Massege': f'Libro: {libro.titulo} insertado correctamente'}
 
     #inst thunder client para revisar paginas raiz propia o creda por nosotros desde el visual 
